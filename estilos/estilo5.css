@@ -1,0 +1,75 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    text-align: center;
+}
+.encab img{
+    width: 80px;
+    margin-top: 50px;
+}
+.encab h1{
+    font-size: 26px;
+    width: 95%;
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+.input{
+    display: flex;
+}
+form h2{
+    margin: auto;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+form img{
+    height: 35px;
+    display: flex;
+    margin: auto;
+    margin-right: 3px;
+    margin-left: 16px;
+}
+form input{
+    width: 64%;
+    height: 50px;
+    margin: auto;
+    margin-top: 13px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    margin-left: 2px;
+    border: 2.5px solid rgb(0,0,255);
+    display: flex;
+    font-size: 25px;
+    
+}
+form a{
+    color: rgb(0,0,255);
+    text-decoration: none;
+    margin-left: 17px;
+    display: flex;
+    font-size: 15px;
+}
+form button{
+    width: 90%;
+    height: 50px;
+    border-radius: 30px;
+    background-color: rgb(0,0,0);
+    color: rgb(255,255,255);
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 13px;
+}
+.ac h4{
+    border: 2px solid rgb(205,205,205);
+    border-radius: 30px;
+    width: 88%;
+    height: 40px;
+    margin: auto;
+    align-content: center;
+    font-size: 13px;
+}
+.ac h5{
+    color: rgb(0,0,255);
+}
